@@ -144,7 +144,7 @@ The Pacman environment needs certain files to be accessible from multiple locati
 
 This is the critical step where we replace the old APT system with the new Pacman system.
 
-> **⚠️ CRITICAL WARNING:**
+> **CRITICAL WARNING:**
 >
 > You **must** enter Failsafe mode before running the switching command. Failsafe mode prevents Termux from running any startup scripts that might interfere with the system replacement. Think of it like "Safe Mode" on Windows or Android.
 
